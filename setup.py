@@ -11,7 +11,7 @@ setup(
     author='Your Name',
     author_email='your.email@example.com',
     license='MIT',
-    url='https://github.com/yourusername/rent_countdown',
+    url='https://github.com/Erickadikah/rent_countdown',
     classifiers=[
         'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
